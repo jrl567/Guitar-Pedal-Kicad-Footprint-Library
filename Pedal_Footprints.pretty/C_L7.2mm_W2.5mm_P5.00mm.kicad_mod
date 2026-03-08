@@ -1,4 +1,4 @@
-(footprint "C_Rect_L7.2mm_W2.5mm_P5.00mm"
+(footprint "C_L7.2mm_W2.5mm_P5.00mm"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "C_Rect_L7.2mm_W2.5mm_P5.00mm"
+	(property "Value" "C_L7.2mm_W2.5mm_P5.00mm"
 		(at 2.5 2.5 0)
 		(layer "F.Fab")
 		(uuid "d2b7bd56-a6c6-4761-9607-9f7dd382cba9")
